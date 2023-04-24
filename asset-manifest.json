@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KotoCafeshka/static/css/main.fc5c2c69.css",
+    "main.js": "/KotoCafeshka/static/js/main.70e3be1b.js",
+    "index.html": "/KotoCafeshka/index.html",
+    "main.fc5c2c69.css.map": "/KotoCafeshka/static/css/main.fc5c2c69.css.map",
+    "main.70e3be1b.js.map": "/KotoCafeshka/static/js/main.70e3be1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.70e3be1b.js"
+  ]
+}
