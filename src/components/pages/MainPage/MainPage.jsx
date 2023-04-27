@@ -3,11 +3,11 @@ import CatList from '../../blocks/StarList/CatList'
 
 import './MainPage.css'
 
-export default function MainPage({stars}) {
+export default function MainPage({...prop}) {
   return (
     <>
       <About />
-      <CatList stars={stars}/>
+      <CatList {...prop}/>
     </>
   )
 }
