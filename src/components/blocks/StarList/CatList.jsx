@@ -1,8 +1,8 @@
 
 
-import './StarList.css'
+import './CatList.css'
 
-export default function StarList() {
+export default function CatList() {
   return (
     <section className='star-list'>
 
